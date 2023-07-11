@@ -43,4 +43,7 @@
 #define CAPS_LOCK_LED_INDEX 61
 
 /* Enable NUM_LOCK_LED_INDEX */
-// #define NUM_LOCK_LED_INDEX 37
+#define NUM_LOCK_LED_INDEX 37
+
+/* Enable SCROLL_LOCK_LED_INDEX */
+#define SCROLL_LOCK_LED_INDEX 14 //I actually do not know what index the scroll lock key is
