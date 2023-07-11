@@ -39,11 +39,11 @@
 /* Encoder Configuration */
 #define ENCODER_DEFAULT_POS 0x3
 
-/* Enable caps-lock LED*/
+/* Enable CAPS_LOCK_LED_INDEX */
 #define CAPS_LOCK_LED_INDEX 61
 
 /* Enable NUM_LOCK_LED_INDEX */
 #define NUM_LOCK_LED_INDEX 37
 
-/* Enable NUM_LOCK_LED_INDEX */
+/* Enable SCROLL_LOCK_LED_INDEX */
 #define SCROLL_LOCK_LED_INDEX 14
